@@ -12,9 +12,9 @@ log save Path C:\port.txt
 ![ifteC.py](https://github.com/itholl/Python_scanipport/blob/master/mianing.png)    
 
 ----------------------------------------
-Python 3.8.0对使用环境有要求  
-使用环境：win10企业版，win7专业版  
-已知不支持环境：win7家庭中文版/旗舰版  
+Python 3.8.0对使用环境有要求（包括编译程序）  
+需要KB2533623补丁支持（确保Windows Update服务是开启状态）
+win7补丁https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=26764  
 
 ----------------------------------------
 
