@@ -13,7 +13,7 @@ log save Path C:\port.txt
 
 ----------------------------------------
 Python 3.8.0对使用环境有要求（包括编译程序）  
-需要KB2533623补丁支持（确保Windows Update服务是开启状态   
+需要KB2533623补丁支持（确保Windows Update服务是开启状态)   
 win7补丁https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=26764  
 
 ----------------------------------------
