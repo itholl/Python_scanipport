@@ -10,7 +10,8 @@ log save Path C:\port.txt
 1.ifteC.exe 使用前请关闭相关杀毒软件,查看结果C:\port.txt  
 2.ifteC.py 源代码可以直接通过 python ifteC.py 执行，结果会在cmd中显示出来  
 ![ifteC.py](https://github.com/itholl/Python_scanipport/blob/master/mianing.png)    
-----------------------------------
+
+----------------------------------------
 Python 3.8.0对使用环境有要求  
 使用环境：win10企业版，win7专业版  
 已知不支持环境：win7家庭中文版/旗舰版  
